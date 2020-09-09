@@ -406,7 +406,7 @@ footer a {
       }
     }
 
-    @media (max-width: 425px) {
+    @media (max-width: 545px) {
       #inputSection {
         margin-left: initial;
       }

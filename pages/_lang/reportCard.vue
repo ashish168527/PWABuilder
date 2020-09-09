@@ -905,7 +905,7 @@ h2 {
     margin-top: 68px;
   }
 
-  @media (max-width: 425px) {
+  @media (max-width: 545px) {
     #topHalfHome {
       padding-left: 25px;
       padding-right: 25px;
@@ -932,7 +932,7 @@ h2 {
     }
   }
 
-  @media (max-width: 425px) {
+  @media (max-width: 545px) {
     footer {
       margin-right: initial;
       margin-left: initial;
@@ -1037,7 +1037,7 @@ h2 {
   }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 545px) {
   #inputSection {
     display: initial;
   }

@@ -451,7 +451,7 @@ body {
     text-decoration: underline;
   }
 
-  @media screen and (max-width: 425px) {
+  @media screen and (max-width: 545px) {
     display: none;
   }
 }
