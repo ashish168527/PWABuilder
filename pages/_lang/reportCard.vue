@@ -1074,7 +1074,7 @@ h2 {
   margin-bottom: 20px;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 545px) {
   #attachSection {
     margin-left: 25px;
     margin-right: 25px;
