@@ -772,16 +772,6 @@
             :showMessage="true"
             v-on:downloadPackageError="showPackageDownloadError($event)"
           />
-          <button
-            class="androidDownloadButton"
-            @click="
-              openAppXModal();
-              $awa({
-                referrerUri:
-                  'https://www.pwabuilder.com/publish/windows10-appx',
-              });
-            "
-          >Options</button>
         </div>
       </section>
     </div>
